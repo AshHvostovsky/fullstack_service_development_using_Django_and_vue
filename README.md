@@ -8,6 +8,7 @@ Windows:
 ```bash
 <Путь к проекту>\venv\Scripts\activate
 ```
+
 ```powershell
 <Путь к проекту>\venv\Scripts\Activate.ps1
 ```
